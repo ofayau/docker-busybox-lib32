@@ -1,6 +1,6 @@
 FROM progrium/busybox
 
-MAINTAINER Olivier Fayau <olivier.fayau@gmail.com>
+MAINTAINER Olivier Fayau
 
 #
 # Download & unpack "libc32 for amd64" debian package.
