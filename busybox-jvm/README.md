@@ -1,6 +1,6 @@
 # docker-busybox-jvm
 
-Prepare busybox to install a jvm 32 bits.
+Prepare busybox to install a 32 bits JVM.
 
 ## Supported tags and respective `Dockerfile` links
 
@@ -14,9 +14,12 @@ This image :
 
 - is an extension of the [docker-busybox-lib32](https://github.com/ofayau/docker-busybox-lib32/tree/master/busybox-libc32) image
 
+## Comparison
+
 Compared to some 64 bits JVM images :
 
 ```sh
+REPOSITORY                  TAG          IMAGE ID        CREATED         VIRTUAL SIZE
 frolvlad/alpine-oraclejdk8  latest       8e87306ea37d    7 weeks ago     170.4 MB
 jeanblanchard/busybox-java  8            f9b532dbdd9f    3 months ago    162 MB
 java                        8-jre        b0f21df5333b    5 months ago    478.7 MB
