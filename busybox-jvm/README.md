@@ -42,9 +42,9 @@ ofayau/openjdk              8-jre        fded935a77ed    5 days ago      115.1 M
 
 Discover these images :
 
-- [`OpenJDK`](https://registry.hub.docker.com/u/ofayau/openjdk/)
-- [`Oracle Java SE Embedded`](https://registry.hub.docker.com/u/ofayau/ejre/)
-- [`Oracle Java ME`](https://registry.hub.docker.com/u/ofayau/j2me/)
+- [`ofayau/openjdk` (*OpenJDK*)](https://registry.hub.docker.com/u/ofayau/openjdk/)
+- [`ofayau/ejre` (*Oracle Java SE Embedded*)](https://registry.hub.docker.com/u/ofayau/ejre/)
+- [`ofayau/j2me` (*Oracle Java ME*)](https://registry.hub.docker.com/u/ofayau/j2me/)
 
 ## License
 

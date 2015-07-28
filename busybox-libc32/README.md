@@ -18,6 +18,8 @@ This docker image add libc 64 bits (in /lib64) and 32 bits libc (in /lib32).
 
 Linux OS will choose what the program need.
 
+- This image extends [`progrium/busybox`](https://registry.hub.docker.com/u/progrium/busybox/).
+
 ## License
 
 - *Busybox* : see [license information](http://www.busybox.net/license.html).
